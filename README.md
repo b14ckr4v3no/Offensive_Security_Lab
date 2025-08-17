@@ -32,10 +32,30 @@ Fokus utama adalah membangun kemampuan ofensif secara sistematis: dari **reconna
 ## 📂 Struktur Repo
 
 ```
-Offensive_Security_Lab/
-├── 📅 weekX-.../ → Catatan mingguan belajar & praktik
-├── 🔧 tools-notes/ → Penjelasan singkat & penggunaan tools
-└── 📚 resources/ → Referensi buku, cheatsheet, dan link penting
+🏛️ Offensive_Security_Lab/
+│
+├── � resources/                   # Referensi tambahan
+│    ├── 📖 books.md               
+│    ├── 📋 cheatsheets.md         
+│    └── 🔗 links.md                
+│
+├── �️ tools-notes/                 # Catatan singkat per tool
+│   ├── 🗺️ nmap.md                 
+│   ├── 🔌 netcat.md               
+│   ├── ⚔️ metasploit.md           
+│   └── 🦈 wireshark.md            
+│
+├── 📅 week1-recon/                # 🔍 Week 1: Recon & Network Awareness
+│   └── 📋 report.md
+├── 📅 week2-metasploit/           # ⚔️ Week 2: 
+│   └── 📋 report.md
+├── 📅 week3-enumeration/          # 🔎 Week 3: 
+│   └── 📋 report.md
+├── 📅 week4-privesc/              # 🚀 Week 4: 
+│   └── 📋 report.md
+│
+└── � README.md                    # Deskripsi utama repository
+  
 ```
 
 ---
