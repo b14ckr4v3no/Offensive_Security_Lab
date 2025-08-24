@@ -2,7 +2,7 @@
 
 ---
 
-## 1. Scan Basic
+## 1️⃣ Scan Basic
 
 ```bash
 nmap -sV -sC -A <IP_Target>
@@ -22,7 +22,7 @@ nmap -sV -sC -A <IP_Target>
 
 ---
 
-## 2. Scan Semua Port
+## 2️⃣ Scan Semua Port
 
 ```bash
 nmap -p- <IP_Target>
@@ -32,10 +32,18 @@ nmap -p- <IP_Target>
 
 ---
 
-## 3. Script Vulnerability
+## 3️⃣ Script Vulnerability
 
 ```bash
 nmap --script vuln <IP_Target>
 ```
 
 Jalankan script Nmap khusus untuk cek CVE & vuln umum
+
+---
+
+### 📄 Referensi Praktik
+Contoh penerapan langsung pada lab virtualnya ada pada:
+[text](<week1-recon\Laporan Lab Day 1&2.pdf>)
+
+> ⚠️ **Catatan:** Semua eksperimen dilakukan terhadap lab environment (Metasploitable VM). Bukan untuk menyerang sistem nyata. Tujuan murni untuk pembelajaran dan penelitian cyber security.
