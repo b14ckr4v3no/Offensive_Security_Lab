@@ -44,6 +44,6 @@ Jalankan script Nmap khusus untuk cek CVE & vuln umum
 
 ### 📄 Referensi Praktik
 Contoh penerapan langsung pada lab virtualnya ada pada:
-[text](<week1-recon\Laporan Lab Day 1&2.pdf>)
+[text](<d:/New folder/Laporan Lab Day 1&2.pdf>)
 
 > ⚠️ **Catatan:** Semua eksperimen dilakukan terhadap lab environment (Metasploitable VM). Bukan untuk menyerang sistem nyata. Tujuan murni untuk pembelajaran dan penelitian cyber security.
